@@ -3,6 +3,10 @@
 ## Overview
 This project analyzes gym membership data to identify factors associated with customer retention and churn. The goal is to use Python-based data analysis and visualization to determine which member characteristics are most related to churn risk.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_overview.png)
+
 ## Tools Used
 - Python
 - Pandas
