@@ -1,4 +1,4 @@
-# Customer Churn Analysis Using Python
+# Customer Churn Analysis Using Python & Tableau
 
 ## Overview
 This project analyzes gym membership data to identify factors associated with customer retention and churn. The goal is to use Python-based data analysis and visualization to determine which member characteristics are most related to churn risk.
@@ -6,6 +6,12 @@ This project analyzes gym membership data to identify factors associated with cu
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard_overview.png)
+
+## Interactive Tableau Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+[Tableau Dashboard]((https://public.tableau.com/views/GymMembershipRetentionChurnAnalysis/CustomerRetentionChurnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Tools Used
 - Python
