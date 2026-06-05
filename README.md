@@ -11,7 +11,7 @@ This project analyzes gym membership data to identify factors associated with cu
 
 View the interactive dashboard on Tableau Public:
 
-[Tableau Dashboard]((https://public.tableau.com/views/GymMembershipRetentionChurnAnalysis/CustomerRetentionChurnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Tableau Dashboard](https://public.tableau.com/views/GymMembershipRetentionChurnAnalysis/CustomerRetentionChurnAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Tools Used
 - Python
