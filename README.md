@@ -33,10 +33,11 @@ The dataset contains gym member information, including gender, age, location pro
 6. Summarized key findings and future improvements.
 
 ## Key Findings
-- Overall churn rate was approximately 26.5%.
-- Members near the gym had lower churn than members who were not nearby.
-- Younger members had higher churn rates.
-- Gender showed little difference in churn behavior.
+- Members with 1-month contracts experienced a 42% churn rate.
+- Members with 12-month contracts experienced only a 2% churn rate.
+- Members located near the gym churned at a rate of 24%, compared to 40% for members located farther away.
+- Referred members churned at a rate of 16%, compared to 31% for non-referred members.
+- Younger members experienced significantly higher churn rates than older members.
 
 ## Visualizations
 Visualizations created in the notebook are saved in the `images/` folder, including:
@@ -45,6 +46,32 @@ Visualizations created in the notebook are saved in the `images/` folder, includ
 - Retention by employer partnership
 - Retention by referral program
 - Churn by age
+
+## Repository Structure
+
+```text
+customer-churn-analysis-python/
+├── customer_churn_analysis.ipynb
+├── gym_churn.csv
+├── dashboard_overview.png
+├── requirements.txt
+└── README.md
+```
+
+## Business Impact
+
+The analysis identified several factors associated with customer retention. Findings suggest that longer contract commitments, referral participation, and geographic proximity to the gym are strongly associated with lower churn rates. These insights could support targeted retention strategies and membership program improvements.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Python Programming
+- Tableau Dashboard Development
+- Business Intelligence Reporting
+- Statistical Analysis
 
 ## Future Improvements
 - Build a machine learning model to predict churn.
